@@ -1,0 +1,24 @@
+00000001ROCK      WOOTEN         VICTOR         PERC        P0999931IN
+12345678FUSION    MCLAUGHLIN     JOHN           GUITAR      P0600050OUT
+00000002JAZZ      JORDAN         STEVE          VOCALS      N0500060IN
+00000004CLASSICAL OTHMAN         TESTMAN        BASS        U0700070IN
+00000003FUSION    TOMSON         NATLLY         GUITAR      U0800080OUT
+12457898COUNTRY   REEDMON        ALXIA          DRUMS       N0900090IN
+C0       COMMENT         LAST NAME BLANK   |||||||5|||||||||6|||||||||7||
+00000008ROCK                     LASTNAMEBLANK  BASS        P0100010IN
+C0       COMMENT         NOT VALID MUSICAL GENRE  5|||||||||6|||||||||7|||
+000000011NOTVALID  MUSICAL GENRE    NOTVALIDGENRGUITAR      U020003OUT
+C0       COMMENT         NOT VALID ACCOUNT NBR  ||5|||||||||6|||||||||7||
+A0000321JAZZ      NOT VALID      ACCOUNT NBR    KEYS        N0900078IN
+C0       COMMENT         INSTRUMNET TYPE IS SAXOPHONE      |6|||||||||7||
+00000012ROCK      SIMON          ZAK            SAXOPHONE   U0800055IN
+00000014FOLK      MACDONALD      LILI           KEYS        N6700075OUT
+C0       COMMENT         INSTRUMNET QUALITY IS X!          |6|||||||||7||
+00000014FOLK      GORGE          BATH           KEYS        X0700055OUT
+00000015CLASSICAL BALMER         NADJA          PERC        U0500075IN
+C0       COMMENT       ERROR IN ISTRUMENT VALUE            |6|||||||||7||
+00000050ROCK      ANTOLY         LEO            DRUMS       N1900090IN
+00000051ROCK      DEVID          ALXIA          KEYS        U0099999IN
+C0       COMMENT      OK   RECORD                          |6|||||||||7||
+00000055JAZZ      OTHMAN         EMARA          GUITAR      P0999999OUT
+C0000000||1|||||||||2|||||||||3|||||||||4|||||||||5|||||||||6|||||||||7||
