@@ -2,7 +2,7 @@
        IDENTIFICATION DIVISION.
       *-----------------------
        PROGRAM-ID.    S0C7.
-       AUTHOR.        ABEND-S0C7.
+       AUTHOR.       ABEND-S0C7.
        DATA DIVISION.
        WORKING-STORAGE SECTION.
        01  S0C7-TEST-VARIABLES.
@@ -12,7 +12,7 @@
            05  TOTAL-HOURS-WORKED       PIC S9(03)  COMP-3.
              88 VALID-MONTH VALUES ARE 1 THRU 12.
            05   WS-USER-ABEND-CODE      PIC S9(04)   COMP.
-           05  SUB                      PIC S9(01)   COMP-3.
+           05  SUB                      PIC S9(01)   COMP.
            05  SUB-COMP                 PIC S9(04)   COMP.
            05  SUB-COMP-3               PIC S9(04)   COMP-3.
            05  SUB-DISPLAY              PIC S9(04).

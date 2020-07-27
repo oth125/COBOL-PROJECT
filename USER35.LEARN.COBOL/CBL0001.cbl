@@ -1,6 +1,6 @@
       *-----------------------
        IDENTIFICATION DIVISION.
-      *-----------------------
+      *--------------------------
        PROGRAM-ID.    CBL0001
        AUTHOR.        HOW DOES THIS PROGRAM WORK?
       *--------------------
